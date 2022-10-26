@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://walaj.github.io/carreview/" />
   <meta name="citation_pdf_url" content="https://walaj.github.io/carreview/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://walaj.github.io/carreview/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/" />
-  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/" />
-  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/aba6bd49181acc50f83006191f5f45869e8d2072/" />
+  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/aba6bd49181acc50f83006191f5f45869e8d2072/" />
+  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/aba6bd49181acc50f83006191f5f45869e8d2072/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/))
+([permalink](https://walaj.github.io/carreview/v/aba6bd49181acc50f83006191f5f45869e8d2072/))
 was automatically generated
-from [walaj/carreview@1e0efce](https://github.com/walaj/carreview/tree/1e0efce230b1228d32124f03fe52070f1bd9bf97)
+from [walaj/carreview@aba6bd4](https://github.com/walaj/carreview/tree/aba6bd49181acc50f83006191f5f45869e8d2072)
 on October 26, 2022.
 </em></small>
 
@@ -120,7 +120,7 @@ Compare the input (`.md` files in the `/content` directory) to the output you se
 ## Section 1
 
 lorem ipsum
-Test 2
+Test 2[@pubmed:19451549]
 
 ## Section 2
 
