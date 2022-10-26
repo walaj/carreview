@@ -1,0 +1,2 @@
+content/02.body.md:9:ipsum
+content/02.body.md:9:lorem

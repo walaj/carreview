@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://walaj.github.io/carreview/" />
   <meta name="citation_pdf_url" content="https://walaj.github.io/carreview/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://walaj.github.io/carreview/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/" />
-  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/" />
+  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/" />
+  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/))
+([permalink](https://walaj.github.io/carreview/v/1e0efce230b1228d32124f03fe52070f1bd9bf97/))
 was automatically generated
-from [walaj/carreview@1a144b5](https://github.com/walaj/carreview/tree/1a144b512990708c2d725c8fbf5f93bc9897f7f7)
+from [walaj/carreview@1e0efce](https://github.com/walaj/carreview/tree/1e0efce230b1228d32124f03fe52070f1bd9bf97)
 on October 26, 2022.
 </em></small>
 
@@ -109,6 +109,22 @@ Glenn Hanna \<glenn_hanna@dfci.harvard.edu\>.
 ## Abstract {.page_break_before}
 
 
+
+
+This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
+Use this template as a starting point for your manuscript.
+
+The rest of this document is a full list of formatting elements/features supported by Manubot.
+Compare the input (`.md` files in the `/content` directory) to the output you see below.
+
+## Section 1
+
+lorem ipsum
+Test 2
+
+## Section 2
+
+Stuff
 
 
 ## References {.page_break_before}
