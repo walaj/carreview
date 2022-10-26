@@ -1,27 +1,23 @@
 ---
-title: "Manuscript Title"
+title: "CAR-T Review"
 keywords:
   - markdown
   - publishing
   - manubot
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: walaj
+    name: Jeremiah Wala
+    initials: JW
+    orcid: 0000-0001-6591-1620
+    twitter: jeremiahwala
+    email: jeremiah_wala@dfci.harvard.edu
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+      - Dana Farber Cancer Institute, Medical Oncology
+  - name: Glenn Hanna
+    initials: GH
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: glenn_hanna@dfci.harvard.edu
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Dana Farber Cancer Institute, Medical Oncology
     corresponding: true
