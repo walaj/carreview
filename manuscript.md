@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: CAR-T Review
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,18 @@ keywords:
 lang: en-US
 date-meta: '2022-10-26'
 author-meta:
-- John Doe
-- Jane Roe
+- Jeremiah Wala
+- Glenn Hanna
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="CAR-T Review" />
+  <meta name="citation_title" content="CAR-T Review" />
+  <meta property="og:title" content="CAR-T Review" />
+  <meta property="twitter:title" content="CAR-T Review" />
   <meta name="dc.date" content="2022-10-26" />
   <meta name="citation_publication_date" content="2022-10-26" />
   <meta name="dc.language" content="en-US" />
@@ -27,13 +27,12 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author" content="Jeremiah Wala" />
+  <meta name="citation_author_institution" content="Dana Farber Cancer Institute, Medical Oncology" />
+  <meta name="citation_author_orcid" content="0000-0001-6591-1620" />
+  <meta name="twitter:creator" content="@jeremiahwala" />
+  <meta name="citation_author" content="Glenn Hanna" />
+  <meta name="citation_author_institution" content="Dana Farber Cancer Institute, Medical Oncology" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://walaj.github.io/carreview/" />
   <meta property="og:url" content="https://walaj.github.io/carreview/" />
@@ -41,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://walaj.github.io/carreview/" />
   <meta name="citation_pdf_url" content="https://walaj.github.io/carreview/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://walaj.github.io/carreview/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/aefe056046691b8dd102aeb515c4bb115cd26b3e/" />
-  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/aefe056046691b8dd102aeb515c4bb115cd26b3e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/aefe056046691b8dd102aeb515c4bb115cd26b3e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/" />
+  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://walaj.github.io/carreview/v/aefe056046691b8dd102aeb515c4bb115cd26b3e/))
+([permalink](https://walaj.github.io/carreview/v/1a144b512990708c2d725c8fbf5f93bc9897f7f7/))
 was automatically generated
-from [walaj/carreview@aefe056](https://github.com/walaj/carreview/tree/aefe056046691b8dd102aeb515c4bb115cd26b3e)
+from [walaj/carreview@1a144b5](https://github.com/walaj/carreview/tree/1a144b512990708c2d725c8fbf5f93bc9897f7f7)
 on October 26, 2022.
 </em></small>
 
@@ -75,36 +74,33 @@ on October 26, 2022.
 
 
 
-+ **John Doe**
++ **Jeremiah Wala**
   <br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-6591-1620](https://orcid.org/0000-0001-6591-1620)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [walaj](https://github.com/walaj)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
+    [jeremiahwala](https://twitter.com/jeremiahwala)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Dana Farber Cancer Institute, Medical Oncology
   </small>
 
-+ **Jane Roe**
++ **Glenn Hanna**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Dana Farber Cancer Institute, Medical Oncology
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/walaj/carreview/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Glenn Hanna \<glenn_hanna@dfci.harvard.edu\>.
 
 
 :::
