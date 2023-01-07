@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2022-11-16'
+date-meta: '2023-01-07'
 author-meta:
 - Jeremiah Wala
 - Glenn Hanna
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="CAR-T Review" />
   <meta property="og:title" content="CAR-T Review" />
   <meta property="twitter:title" content="CAR-T Review" />
-  <meta name="dc.date" content="2022-11-16" />
-  <meta name="citation_publication_date" content="2022-11-16" />
+  <meta name="dc.date" content="2023-01-07" />
+  <meta name="citation_publication_date" content="2023-01-07" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://walaj.github.io/carreview/" />
   <meta name="citation_pdf_url" content="https://walaj.github.io/carreview/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://walaj.github.io/carreview/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/8a656bfd52f215b8312f8d386921ff767689411d/" />
-  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/8a656bfd52f215b8312f8d386921ff767689411d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/8a656bfd52f215b8312f8d386921ff767689411d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://walaj.github.io/carreview/v/bbd3d878d56a1a868fdc581515684dde0825cbb3/" />
+  <meta name="manubot_html_url_versioned" content="https://walaj.github.io/carreview/v/bbd3d878d56a1a868fdc581515684dde0825cbb3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://walaj.github.io/carreview/v/bbd3d878d56a1a868fdc581515684dde0825cbb3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://walaj.github.io/carreview/v/8a656bfd52f215b8312f8d386921ff767689411d/))
+([permalink](https://walaj.github.io/carreview/v/bbd3d878d56a1a868fdc581515684dde0825cbb3/))
 was automatically generated
-from [walaj/carreview@8a656bf](https://github.com/walaj/carreview/tree/8a656bfd52f215b8312f8d386921ff767689411d)
-on November 16, 2022.
+from [walaj/carreview@bbd3d87](https://github.com/walaj/carreview/tree/bbd3d878d56a1a868fdc581515684dde0825cbb3)
+on January 7, 2023.
 </em></small>
 
 ## Authors
@@ -111,10 +111,10 @@ Glenn Hanna \<glenn_hanna@dfci.harvard.edu\>.
 
 
 
-abstract conten
+abstract content
 
 ## Introduction
-
+Test
 ## CAR-T History
 
 Features of CARs that improved over autologus cell therapy
@@ -138,7 +138,7 @@ Features of CARs that improved over autologus cell therapy
 - By 2003, a review listed 23 different tumor antigens that have been targeted by genetically modified T cells. Of tehse, some were
 
 ## CAR-T Biology
-
+30523370
 
 
 
@@ -148,6 +148,28 @@ Features of CARs that improved over autologus cell therapy
 
 #### Trafficking
 
+- T-cell localization and migration in tissues is regulated by chemokines, the extracellular matrix, and the distribution of blood vessels able to deliver T-cells. Unlike in heme malignancies, in solid tumors, tumor architecture limits the ability of CAR-T cells to achieve a high density near the tumor cells themselves. For instance, in stromal regions adjacent to tumor islets, increased density of ECM fibers lead to T cell elongation and relative exclusion from the tumors cells, an effect that could be reversed in vivo by application of collagenase to open the ECM [@pubmed:22293174].
+
+- Strategies to improve the trafficking of CAR-T cells to their target in solid tumors.
+1. Chemokine directed therapy:
+- Phase 1 trial of combination durvalumab and CXCR4 peptide antagonist in small cohort of pancreatic and rectal cancer patients [@pubmed:32219196].
+- Altering the recruitment of tumor associated macrophages, which creates an immunosuppressive environment, in pancreatic cancer by blocking CCL2/CCR2 chemokine axis. Phase 2 study of CCR2 inhibitr in 47 patients with pancreatic cancer, in combination with FOLFIRINOX. Demonstrated impressive results with 49% ORR and 97% local tumor control [@pubmed:27055731]. Drug: PF-04136309
+- 
+1. Modifying the CAR-T cells to express receptors that are specifically recognized by tumor-associated blood vessels: This can help the CAR-T cells to home in on the tumor and improve their infiltration into the tumor tissue. 
+2. Engineering the CAR-T cells to produce cytokines or chemokines that can attract immune cells to the tumor: This can create a local immune response that helps to clear the tumor and improve the microenvironment for the CAR-T cells.
+3. Using nanoparticles or other delivery systems to target the CAR-T cells to the tumor: These delivery systems can help to protect the CAR-T cells from the hostile tumor microenvironment and improve their survival and function.
+4. Modifying the CAR-T cells to express enzymes or other molecules that can help them to penetrate the tumor tissue: For example, some researchers are exploring the use of proteases or matrix metalloproteinases to help CAR-T cells to break down the extracellular matrix and infiltrate the tumor tissue.
+5. Administering CAR-T cells in combination with other therapies, such as chemotherapy or radiation, to improve their efficacy: These therapies can help to clear the tumor and create a more favorable microenvironment for the CAR-T cells.
+- Specific inhibitors of T-cell function include surface inhbitory receptors PD-1, LAG3, TIM3 and 2B4. Intrinsic T-cell inhibitor enzymes include diacylglycerol kinase and SHP-1. Blocking DGK (see also this study showing that blockade of DGK increased tumor killing in renal cells carcinoma [@pubmed:22573804]) and SHP-1 reduces the deficits in tumor killing. Similarly, blockade of PD-L1 restored defects in tumor killing (all of these, see [@pubmed:24919573]).
+- Examples of clinical trials co-administering anti-PD-1 therapy with CAR-T in solid tumors: 1) Phase I Trial of Regional Mesothelin-Targeted CAR T-cell Therapy in Patients with Malignant Pleural Disease, in Combination with the Anti-PD-1 Agent Pembrolizumab [@pubmed:34266984]. 2) First case report: single DLBCL patient getting CAR-T against CD19 and pembrolizumab after progressive disease just 26 days after CAR-T infusion, who then had a durable PR after pembro [@pubmed:28031179] - Penn/June work. 3) ***
+- Although, in a melanoma mouse model of combination of PD-1 blockade and CAR-T, it was found that PD-1 blockade increased infiltration of endogenous CD-8 T cells, but decreased OT-I CAR-T cells. They also showed that OD-1 blockade did not significantly change the cell state or activity of CAR-T cells, but did for endogenous T-cells [@pubmed:35793866].
+- Perhaps the better way to do this will be to genetically disrupt PD-1 by gene editing prior to infusion of CAR-T (2013 review of similar ideas [@pubmed:]). Mouse model of this being done using CRISPR/Cas9-mediated PD-1 disruption in mesothelin-targeted CAR-T cells led to strongly increased CAR-T cell activity against PD-L1 expressing cancer cells [@pubmed:30523370].
+6. Using imaging technologies, such as PET or MRI, to track the distribution and localization of CAR-T cells in the body: This can help to identify any barriers to their trafficking and allow researchers to optimize the delivery of the CAR-T cells to the tumor.
+- CAR-T cells can be directly labeled prior to infusion with radioactive material, or can be created with a reporter gene (examples below) that can be used with radiotracer probes (e.g. PSMA[@pubmed:31281894], somatostatin receptors [@pubmed:27882353], hNIS (huan sodium-iodine symporter) [@pubmed:29540684], HSV1-tk[@pubmed:28100832]).
+- Clinical trial of CAR-T engineering with HSV1-TK and IL-13 CAR in glioma to track CAR-T in 7 glioma patients [@pubmed:28100832].
+- SPECT/CT imaging of T cells, for instance using those engineered to uptake (99m)TcO4- as an imaging radiotracer [@pubmed:29540684], provide a platform for pre-clinical testing of where CAR-T cells home to.
+- CAR-T cells can also be engineered to express proteins that act as a protein reporter. For instance, CAR-T cells that expression CD-19 and PSMA have been used with PSMA PET to identify locatitons of CAR-T  in mouse models of ALL [@pubmed:31281894].
+- Radiotracer usage for tracking CAR-T may be useful in assessing clinical response, given that the inflammation associated with CAR-T infusions has been associated with pseudoprogression [@pubmed:30769193].
 #### Tumor microenvironment
 
 #### Target selection
@@ -155,18 +177,25 @@ Features of CARs that improved over autologus cell therapy
 - The most prevalent cancer-specific mutations are not presented on common HLA alleles. This may in part be due to early immune-based negative selective pressure that allows only those driver alterations that are not immunogenic to be presented [@pubmed:32256484]. For instance, an attempt to find neo-antigens that bind to known driver mutations yieled a frequency of < 3% for any given HLA type[@pubmed:28231819].
 - HLA alleles are highly polymorphic -- across the 3 HLA Class I alleles (A, B, C) there are over 13,000 alleles [@pubmed:24894089].
 - Note that CD19, which is the most targeted and first approved target, is widely expressed on all B-cells. The toxicity is predicatable: B-cell aplasia, which can be tolerated with IVIG etc.
-- The target should be stable, and this become more difficult with more unstable genomes that can escape by losing expression of the target. For instace, the most common escape for CD19-directed thearpy is trunacting mutations and copy-number changes leading to LOH[@pubmed:30275569].
+- The target should be stable, and this become more difficult with more unstable genomes that can escape by losing expression of the target. For instace, the most common escape for CD19-directed thearpy is trunacting mutations and copy-number changes leading to LOH[@pubmed:30275569]. Notably though, these mutations were largely truncating, not completly deleting. "This is because CD19 is necessaary for function of the BCR complex, which is necessary for B cell differentiation and survival". Genes that are easily changed through epigenetic means, as opposed to having to have mutations or copy-loss, are more prone to be escaped[@pubmed:31221182].
+- 
 
 ## Therapeutic strategies
 
 #### Expanding targets
-- PC CAR-T
+
+###### PC CAR-T
+
+###### CARs with two targets
+- Combined expression of CD-19 and CD-123 targeting CARs against B-cell leukemia was effective in a mouse model at preventing a CD19- relapse (~400 citations)[@pubmed:27571406].
+- Dual targeting This was also employed in a phase 1 targeting R/R B-ALL / LBCL, this stime using a CD19-22.BB.z-CAR consiting of a single molecule with two scFvs engineered in a loop[@pubmed:34312556].
+- Dual targeting ***
 
 #### Modifying the TME
 - ARMORED CARS
 
 #### Different effector cells
-- NK therapy
+- NK therapy 
 
 
 ## Production
