@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/walaj/carreview/tree/gh-pages) branch hosts the contents of this directory at <https://walaj.github.io/carreview/>.
-The permalink for this webpage version is <https://walaj.github.io/carreview/v/bbd3d878d56a1a868fdc581515684dde0825cbb3/>.
+The permalink for this webpage version is <https://walaj.github.io/carreview/v/7e1a39801466d006297bfad6f70c6de863e7ede6/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://walaj.github.io/carreview/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`bbd3d878d56a1a868fdc581515684dde0825cbb3`](https://github.com/walaj/carreview/commit/bbd3d878d56a1a868fdc581515684dde0825cbb3).
+[`7e1a39801466d006297bfad6f70c6de863e7ede6`](https://github.com/walaj/carreview/commit/7e1a39801466d006297bfad6f70c6de863e7ede6).
